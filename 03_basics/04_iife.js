@@ -1,5 +1,5 @@
 // Immediately Invoked Function Expressions (IIFE)
-
+//global variable se ivike n hojye
 
 (function chai(){
     // named IIFE
