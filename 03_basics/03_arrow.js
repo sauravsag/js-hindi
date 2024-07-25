@@ -41,7 +41,7 @@ const chai =  () => {
 
 // const addTwo = (num1, num2) =>  num1 + num2
 
-// const addTwo = (num1, num2) => ( num1 + num2 )
+// const addTwo = (num1, num2) => ( num1 + num2 ) //with this Parenthesis or bracket no need to use return
 
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
