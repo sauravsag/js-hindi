@@ -19,7 +19,7 @@ const JsUser = {
 // console.log(JsUser.email)
 // console.log(JsUser["email"])
 // console.log(JsUser["full name"])
-// console.log(JsUser[mySym])
+// console.log(JsUser[mySym])   // this is compuscompuslary for using symbol
 
 JsUser.email = "hitesh@chatgpt.com"
 // Object.freeze(JsUser)
