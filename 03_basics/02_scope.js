@@ -56,3 +56,6 @@ addTwo(5)// aise me hosting declear karne se phle use ny kar skte
 const addTwo = function(num){
     return num + 2
 }
+
+
+//ham kisi variable ko koi function assign kar ke phle usse ny kar skte
